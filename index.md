@@ -1,2 +1,15 @@
-# AR Library
-This is a website for an AR Library! You can view it [here](Website.html)!
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AR Library</title>
+</head>
+
+<body>
+    <h1>Welcome to the AR Library</h1>
+    <p>Welcome to the AR Library website. I created this website in order to view AR objects from the web on any device running iOS 12. Conincidentally, this is the first time I made a website with HTML! It's a lot of fun!</p>
+</body>
+<a href="egg.usdz" rel="ar">
+    <img src="egg.png" width=200>
+</a>
+
+</html>
